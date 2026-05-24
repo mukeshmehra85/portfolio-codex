@@ -21,3 +21,5 @@ Optional details to make the content stronger:
 ## Publish
 
 This static site can be hosted with GitHub Pages from the repository root.
+
+Live site: https://mukeshmehra85.github.io/portfolio-codex/
